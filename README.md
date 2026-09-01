@@ -20,7 +20,7 @@ LLMs and Multi-Agent Systems.
 ## 🛠️ Tech Stack
 
 ### Languages
-Python • C++ • SQL
+Python •  SQL
 
 ### AI / ML
 PyTorch • Scikit-learn • OpenCV
@@ -42,6 +42,9 @@ CCTV and enterprise environments.
 
 **Tech:** Python • OpenCV • ONNX • ArcFace
 
+[View Project](https://github.com/sohrab108/face-recognition-system)
+
+
 ### 🤖 Software Engineering Multi-Agent System
 
 Multi-agent system for automated software engineering
@@ -49,14 +52,15 @@ analysis and code evaluation.
 
 **Tech:** Python • LangGraph • MCP • LLMs • PostgreSQL
 
+[View Project](https://github.com/sohrab108/Software-Engineering-Multi-Agent-System)
 ---
 
 ## 📊 GitHub Stats
 
-[stats here]
+![Sohrab's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohrab108&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🤝 Let's Connect
 
-LinkedIn | Email | Portfolio
+[LinkedIn](https://www.linkedin.com/in/sohrab-khachi-56b4a124a/) | Email: sohrab83.k@gmail.com
