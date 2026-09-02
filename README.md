@@ -61,7 +61,7 @@ analysis and code evaluation.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohrab108" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=MohamadNematizadeh&theme=tokyonight&border_radius=10" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=sohrab108&theme=tokyonight&border_radius=10" width="47%" />
 </div>
 
 
