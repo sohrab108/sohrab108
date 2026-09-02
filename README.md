@@ -19,6 +19,11 @@ LLMs and Multi-Agent Systems.
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,opencv,postgresql,flask,mysql,git,github" />
+</div>
+
+
 ### Languages
 Python •  SQL
 
