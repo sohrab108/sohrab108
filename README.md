@@ -63,9 +63,7 @@ analysis and code evaluation.
   <img src="https://github-readme-stats.vercel.app/api?username=sohrab108&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohrab108&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
----
-## 📊 GitHub Stats
-https://your-project.vercel.app/api?username=sohrab108&show_icons=true
+
 ---
 ## 🤝 Let's Connect
 
