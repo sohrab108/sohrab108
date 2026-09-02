@@ -20,7 +20,7 @@ LLMs and Multi-Agent Systems.
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,flask,mysql,git,github,sklearn,fastapi,postgresql,docker,,linux" " />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,flask,mysql,git,github,sklearn,fastapi,postgresql,docker,linux" " />
 </div>
 
 
