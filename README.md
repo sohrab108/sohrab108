@@ -59,10 +59,11 @@ analysis and code evaluation.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohrab108&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohrab108&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohrab108" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=MohamadNematizadeh&theme=tokyonight&border_radius=10" width="47%" />
+</div>
+
 
 ---
 ## 🤝 Let's Connect
